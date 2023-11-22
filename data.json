@@ -1,0 +1,63 @@
+{
+  "currentUser": {
+    "image": { 
+      "png": "./images/avatars/image-juliusomo.png"
+    },
+    "username": "juliusomo"
+  },
+  "comments": [
+    {
+      "id": 1,
+      "content": "Good morning, everyone! I hope you're all doing well today. I was thinking it might be beneficial for us to gather and discuss some strategies for the upcoming project. I've been jotting down a few concepts that could really give us an edge, and I'd love to hear your thoughts on them.",
+      "createdAt": "1 month ago",
+      "score": 12,
+      "user": {
+        "image": { 
+          "png": "./images/avatars/image-amyrobson.png"
+        },
+        "username": "amyrobson"
+      },
+      "replies": []
+    },
+    {
+      "id": 2,
+      "content": "That sounds like a fantastic idea! I've been pondering some innovative approaches myself, and bouncing ideas off each other could really spark some creative solutions. I'm eager to dive into this discussion and see how we can elevate our project to the next level.",
+      "createdAt": "2 weeks ago",
+      "score": 5,
+      "user": {
+        "image": { 
+          "png": "./images/avatars/image-maxblagun.png"
+        },
+        "username": "maxblagun"
+      },
+      "replies": [
+        {
+          "id": 3,
+          "content": "I'm on board too! Collaboration always brings out the best in our work. I've been exploring some unconventional methods that might add a unique touch to our project, and I'm curious to see how they align with what you've been envisioning.",
+          "createdAt": "1 week ago",
+          "score": 4,
+          "replyingTo": "maxblagun",
+          "user": {
+            "image": { 
+              "png": "./images/avatars/image-ramsesmiron.png"
+            },
+            "username": "ramsesmiron"
+          }
+        },
+        {
+          "id": 4,
+          "content": " Sorry, folks, I've been a bit tied up with another task, but count me in for sure! I'll be done shortly, and I'm excited to contribute to the conversation. Let's make this project truly stand out!",
+          "createdAt": "2 days ago",
+          "score": 2,
+          "replyingTo": "ramsesmiron",
+          "user": {
+            "image": { 
+              "png": "./images/avatars/image-juliusomo.png"
+            },
+            "username": "juliusomo"
+          }
+        }
+      ]
+    }
+  ]
+}
